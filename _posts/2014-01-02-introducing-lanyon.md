@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Bronte
+title: Introducing Brontë
 published: true
 ---
 
