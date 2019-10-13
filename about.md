@@ -3,6 +3,9 @@ layout: page
 title: About Me
 published: true
 ---
+<head> 
+  <link rel="shortcut icon" type="image/x-icon" href="favicon_16x16_vZS_icon.ico">
+</head>
 
 <p class="message">
   “Life is like riding a bicycle. To keep your balance you must keep moving.”
