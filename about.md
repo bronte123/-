@@ -26,8 +26,8 @@ Within the coming years, I aim to create and be apart of projects that bring tog
 
 **Interested in some of my work?**
 <br>
-nothing is here yet.. in progress
-
+_nothing is here yet.. in progress_
+<br>
 
 **Follow me on social media!**
 * [Instagram](https://www.instagram.com/brontejohnson/)
