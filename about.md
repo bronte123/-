@@ -10,9 +10,8 @@ published: true
 <p class="message">
   “Life is like riding a bicycle. To keep your balance you must keep moving.”
   <br>
-  <pre>
- 															- Albert Einstein
-  </pre>
+  
+ <pre>													</pre>- Albert Einstein
   
 </p>
 
