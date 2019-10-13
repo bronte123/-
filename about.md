@@ -8,10 +8,9 @@ published: true
 </head>
 
 <p class="message">
-  “Life is like ri a bicycle. To keep your balance you must keep moving.”
+  “Life is like iding a bicycle. To keep your balance you must keep moving.”
   <br>
-  
- <pre>													</pre>- Albert Einstein
+ 															- Albert Einstein 
   
 </p>
 
