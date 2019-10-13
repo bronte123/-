@@ -16,6 +16,8 @@ published: true
 
 <img src="dog.jpg" width="40" height="40" border="0"> 
 
+##Bio
+
 My name is Brontë Johnson and I am an undergraduate student at James Madison University in Harrisonburg, Virginia. I am pursuing my B.S. in Computer Science, as well as a B.A. in Journalism & Film Studies. I expect to graduate in May 2022.
 
 My future goals include combining the technology field with the entertainment industry, creating projects that haven't yet been seen before. 
