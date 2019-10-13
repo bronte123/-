@@ -6,7 +6,8 @@ published: true
 
 <p class="message">
   “Life is like riding a bicycle. To keep your balance you must keep moving.”
-  															**-Albert Einstein** 
+  **-Albert Einstein** 
+  
 </p>
 
 My name is Brontë Johnson and I am an undergraduate student at James Madison University in Harrisonburg, Virginia. I am pursuing my B.S. in Computer Science, as well as a B.A. in Journalism & Film Studies. I expect to graduate in May 2022.
