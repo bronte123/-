@@ -24,12 +24,12 @@ Some of my interests include: Graphic Design, web design, computer animation, vo
 
 Within the coming years, I aim to create and be apart of projects that bring together mass amounts of people, as well as harnesses the ability to have influence that expands globally.
 
-Interested in some of my work?
+**Interested in some of my work?**
 <br>
 nothing is here yet.. in progress
 
 
-Follow me on social media! 
+**Follow me on social media!**
 * [Instagram](https://www.instagram.com/brontejohnson/)
 * [Twitter](https://twitter.com/brontejohnson1) 
 * [LinkedIn](https://www.linkedin.com/in/brontejohnson)
