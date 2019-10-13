@@ -5,7 +5,8 @@ published: true
 ---
 
 <p class="message">
-  Hey there! This page will be able to tell you more about who I am and my background. I am always on the move, always searching for and creating new projects wherever I go. Carry on!
+  “Life is like riding a bicycle. To keep your balance you must keep moving.”
+  															**-Albert Einstein** 
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
