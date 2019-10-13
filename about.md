@@ -20,10 +20,20 @@ My name is Brontë Johnson and I am an undergraduate student at James Madison Un
 
 My future goals include combining the technology field with the entertainment industry, creating projects that haven't yet been seen before. 
 
-Some of my interests include: Graphic Design, web design, computer animation, voice acting / voice over work, the preforming arts, computer programming, video and digital editing, film revision and analyzation, playwriting, and storytelling.
+Some of my interests include: Graphic Design, web design, computer animation, voice acting / voice over work, the preforming arts, sound design, computer programming, video and digital editing, film revision and analyzation, playwriting, and storytelling.
 
 Within the coming years, I aim to create and be apart of projects that bring together mass amounts of people, as well as harnesses the ability to have influence that expands globally.
 
+Interested in some of my work?
+<br>
+nothing is here yet.. in progress
+
+
+Follow me on social media! 
+* [Instagram](https://www.instagram.com/brontejohnson/)
+* [Twitter](https://twitter.com/brontejohnson1) 
+* [LinkedIn](https://www.linkedin.com/in/brontejohnson)
+* [SoundCloud](https://soundcloud.com/brontej)
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
