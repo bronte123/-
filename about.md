@@ -9,6 +9,15 @@ published: true
   															**-Albert Einstein** 
 </p>
 
+My name is Brontë Johnson and I am an undergraduate student at James Madison University in Harrisonburg, Virginia. I am pursuing my B.S. in Computer Science, as well as a B.A. in Journalism & Film Studies. I expect to graduate in May 2022.
+
+My future goals include combining the technology field with the entertainment industry, to create projects that haven't yet been seen before. 
+
+Some of my interests include: Graphic Design, web design, computer animation, voice acting / voice over work, the preforming arts, computer programming, video and digital editing, film revision and analyzation, playwriting, and storytelling.
+
+I want to be able to make learning more fun and more accessible to schools, organizations, or people with less resources.
+
+
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
 There are currently two themes built on Poole:
