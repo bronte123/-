@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Example content
+title: Freedom of Speech -- How Far is Too Far?
+published: true
 ---
 
 
