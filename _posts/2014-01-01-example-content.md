@@ -4,6 +4,9 @@ title: '"Freedom of Speech" -- How Far is Too Far?'
 published: true
 ---
 
+![dog.jpg]({{site.baseurl}}/_posts/dog.jpg)
+
+
 
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
