@@ -4,7 +4,7 @@ title: You Matter (On Campus)
 published: true
 ---
 
-![]({{site.baseurl}}/https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiz0J_tspflAhX58OAKHRO0BEUQjRx6BAgBEAQ&url=http%3A%2F%2Fwww.russellhoover.studio%2Fsquarespace-portraiture%2F&psig=AOvVaw3K3jKA0QriCFCwlTk-ZLXz&ust=1570992923836088)
+
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
