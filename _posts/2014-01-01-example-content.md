@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Freedom of Speech -- How Far is Too Far?
+title: '"Freedom of Speech" -- How Far is Too Far?'
 published: true
 ---
 
