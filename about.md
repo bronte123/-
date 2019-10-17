@@ -4,7 +4,6 @@ title: About Me
 published: true
 ---
 <head> 
-  <img src="/AboutMe.jpg" alt="An image of the website author." />
 
 </head>
 
@@ -12,10 +11,9 @@ published: true
   “Life is like riding a bicycle. To keep your balance you must keep moving.”
   <br>
  															- Albert Einstein 
-  
-</p>
+ </p>
 
-<img src="dog.jpg" width="40" height="40" border="0"> 
+<img src="/AboutMe.jpg" alt="An image of the website author." />
 
 ## Bio: 
 
