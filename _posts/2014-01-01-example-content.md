@@ -4,7 +4,7 @@ title: '"The Ballad of Jebediah Jones"'
 published: true
 ---
 
-<img src="/FilmJJ.jpg" alt="An image of a dog." />
+<img src="/FilmJJ.jpg" alt="A behind the scenes look at the FILM" />
 
 
 <div class="message">
