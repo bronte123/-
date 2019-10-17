@@ -6,7 +6,8 @@ published: true
 
 <img src="/YouMatter2.jpg" alt="An image of YM." />
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+**You Matter** is a movement started by social media influencer, [Demetrius Harmon](https://www.demetriusharmon.com/). The movement sheds light on mental health, stress, and self harm facing the current generation. 
+
 
 ### Built on Poole
 
