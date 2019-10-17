@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You Matter (Even on Campus)
+title: This is the new page
 published: true
 ---
 
