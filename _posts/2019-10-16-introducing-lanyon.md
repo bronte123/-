@@ -10,6 +10,7 @@ published: true
 _**You Matter**_ is a movement started by social media influencer, [Demetrius Harmon](https://www.demetriusharmon.com/). The movement sheds light on mental health, stress, and self harm facing the current generation. 
 </small>
 
+<!--more-->
 
 ### Built on Poole
 
