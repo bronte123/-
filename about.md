@@ -4,7 +4,8 @@ title: About Me
 published: true
 ---
 <head> 
-  <link rel="shortcut icon" type="image/x-icon" href="favicon_16x16_vZS_icon.ico">
+  <img src="/AboutMe.jpg" alt="An image of YM." />
+
 </head>
 
 <p class="message">
@@ -36,4 +37,3 @@ _nothing is here yet.. in progress_
 * [Twitter](https://twitter.com/brontejohnson1) 
 * [LinkedIn](https://www.linkedin.com/in/brontejohnson)
 * [SoundCloud](https://soundcloud.com/brontej)
-
