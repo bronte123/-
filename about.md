@@ -24,6 +24,8 @@ My future goals include combining the technology field with the entertainment in
 Some of my interests include: Graphic Design, web design, computer animation, voice acting / voice over work, the preforming arts, sound design, computer programming, video and digital editing, film revision and analyzation, playwriting, and storytelling.
 
 Within the coming years, I aim to create and be apart of projects that bring together mass amounts of people, as well as harnesses the ability to have influence that expands globally.
+<br>
+<br>
 
 **Interested in some of my work?**
 <br>
