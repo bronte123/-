@@ -8,7 +8,7 @@ published: true
 
 
 <small>
-  A shot behind-the-scenes of the 2019 Short Film _The Ballad of Jebbediah Jones_, starring Bronte Johnson and Jacob Rice. 
+  A behind-the-scenes look at the 2019 Short Film _The Ballad of Jebbediah Jones_, starring Bronte Johnson and Jacob Rice. 
 </small>
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
