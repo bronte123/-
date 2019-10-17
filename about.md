@@ -4,7 +4,7 @@ title: About Me
 published: true
 ---
 <head> 
-  <img src="/AboutMe.jpg" alt="An image of YM." />
+  <img src="/AboutMe.jpg" alt="An image of the website author." />
 
 </head>
 
