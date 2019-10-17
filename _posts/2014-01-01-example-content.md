@@ -4,7 +4,7 @@ title: '"The Ballad of Jebediah Jones"'
 published: true
 ---
 
-<img src="/dog.jpg" alt="An image of a dog." />
+<img src="/FilmJJ.jpg" alt="An image of a dog." />
 
 <div class="message">
   Howdy YALL! This is an example blog post that shows several types of HTML content supported in this theme.
