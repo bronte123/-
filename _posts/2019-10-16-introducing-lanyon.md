@@ -6,7 +6,9 @@ published: true
 
 <img src="/YouMatter2.jpg" alt="An image of YM." />
 
+<small>
 _**You Matter**_ is a movement started by social media influencer, [Demetrius Harmon](https://www.demetriusharmon.com/). The movement sheds light on mental health, stress, and self harm facing the current generation. 
+</small>
 
 
 ### Built on Poole
