@@ -6,8 +6,9 @@ published: true
 
 <img src="/FilmJJ.jpg" alt="An image of a dog." />
 
+
 <div class="message">
-  Howdy YALL! This is an example blog post that shows several types of HTML content supported in this theme.
+  A shot behind-the-scenes of the 2019 Short Film _The Ballad of Jebbediah Jones_, starring Bronte Johnson and Jacob Rice. 
 </div>
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
