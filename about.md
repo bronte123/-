@@ -8,9 +8,9 @@ published: true
 </head>
 
 <p class="message">
-  “Life is like riding a bicycle. To keep your balance you must keep moving.”
+  “To be creative is to be free. To be free is to be creative.”
   <br>
- 															- Albert Einstein 
+ 															- Brontë 
  </p>
 
 <img src="/AboutMe.jpg" alt="An image of the website author." />
