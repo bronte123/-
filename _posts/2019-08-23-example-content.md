@@ -8,7 +8,7 @@ published: true
 
 
 <small>
-  A behind-the-scene look at the 2019 Short Film _The Ballad of Jebediah Jones_, starring _Brontë Johnson_ and _Jacob Rice_. 
+  A behind-the-scenes look at the 2019 Short Film _The Ballad of Jebediah Jones_, starring _Brontë Johnson_ and _Jacob Rice_. 
 </small>
 
 Based in an undefined time period, _The Ballad of Jebediah Jones_ is an old western themed short film. The plot opens around the main character, rugged and old-fashioned cowboy Jebediah (Jeb) Jones. Having owned a large plot of land, Jones finds himself spending an abundance of time alone, tending to his work in his barn. When word gets out around town that there has been a series of horrible murders, Jones suddenly finds himself thrust into the spotlight, suspected for being responsible for the killings.
