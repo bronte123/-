@@ -8,7 +8,7 @@ published: true
 </head>
 
 <p class="message">
-  “To be creative is to be free. To be free is to be creative.”
+  “You've got to be creative to be truly free. That's why being creative is truly freeing.”
   <br>
   <center>													- Brontë </center>
  </p>
