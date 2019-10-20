@@ -18,7 +18,8 @@ Soon enters hard-nosed, sharp-as-a-whip southern investigator, Jayla Tillerman. 
 <img src="/IMG_7264.jpg" alt="An behind the scenes look at Jacob or Jeb." align="left" height="300" width="400" />
 
 Originally written by Logan Hall, the story is packed with mystery, action, suspense, and lighthearted humor. The film provides stunning scenery and interesting camera shots, contributing to the unique newness of _The Ballad of Jebediah Jones_. 
-
+<br>
+<br>
 **
 <br>
 <br>
