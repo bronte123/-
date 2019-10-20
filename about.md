@@ -10,7 +10,7 @@ published: true
 <p class="message">
   “To be creative is to be free. To be free is to be creative.”
   <br>
- 															- Brontë 
+  <center>													- Brontë </center>
  </p>
 
 <img src="/AboutMe.jpg" alt="An image of the website author." />
