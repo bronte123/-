@@ -15,7 +15,7 @@ Based in an undefined time period, _The Ballad of Jebediah Jones_ is an old west
 
 Soon enters hard-nosed, sharp-as-a-whip southern investigator, Jayla Tillerman. Known for her wit, charm, and impressive detective work, Jayla proved to be a familiar face in the small town she lived in. Her skillset quickly earned her the title of "Town Sheriff", working to protect the very people that loved her so dearly. However, it comes as a surprise to everyone when Tillerman abruptly leaves behind the position, deciding to pursue private detective work elsewhere. But when a string of gruesome murders begins to occur in her old town, Tillerman is faced with what has the potential to become on of the biggest challenges in her career. 
 
-<img src="/IMG_7264.jpg" alt="An behind the scenes look at Jacob or Jeb." align="right" height="42" width="24" />
+<img src="/FilmJJ.jpg" alt="An behind the scenes look at Jacob or Jeb." align="right" height="42" width="24" />
 
 Originally written by Logan Hall, the story is packed with mystery, action, suspense, and lighthearted humor. The film provides stunning scenery and interesting camera shots, contributing to the unique newness of The _Ballad of Jebediah Jones_. 
 
