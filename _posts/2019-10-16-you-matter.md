@@ -24,6 +24,9 @@ _**You Matter**_ is a movement started by social media influencer, [Demetrius Ha
 <script src="https://rawgit.com/reececomo/readmore-js/master/resources/readmore.js?0"></script>
 <link rel="stylesheet" href="https://rawgit.com/reececomo/readmore-js/master/resources/readmore.css?0">
         
+// Global with defaults
+$.readMore();
+        
 
 <div class="read-more">  
 College is the time for growth, learning, and exploration. College is a time to start building a life of your own and get excited about the future... Yet for some of our nation’s 21 million college students, the transition into adulthood is a time of significant change and intense challenge to their emotional health and well-being.
