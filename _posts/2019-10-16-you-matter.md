@@ -23,9 +23,7 @@ _**You Matter**_ is a movement started by social media influencer, [Demetrius Ha
 <!-- Include ReadMore -->
 <script src="https://rawgit.com/reececomo/readmore-js/master/resources/readmore.js?0"></script>
 <link rel="stylesheet" href="https://rawgit.com/reececomo/readmore-js/master/resources/readmore.css?0">
-        
-// Global with defaults
-$.readMore();
+
         
 
 <div class="read-more">  
