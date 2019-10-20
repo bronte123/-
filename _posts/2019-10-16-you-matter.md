@@ -23,9 +23,22 @@ _**You Matter**_ is a movement started by social media influencer, [Demetrius Ha
         <!-- Include ReadMore -->
         <script src="https://rawgit.com/reececomo/readmore-js/master/resources/readmore.js?0"></script>
         <link rel="stylesheet" href="https://rawgit.com/reececomo/readmore-js/master/resources/readmore.css?0"></script>
+        
+ <div class="container">
+            <h1>readmore-js Demo</h1>
+            <h3 style="color:#aaa;font-size:100%;">Written by <a href="https://www.github.com/reececomo/">Reece Como</a> (9th Jan 2018)</h3>
+            <div class="demo-box">
+              
+              <div class="read-more">
+                            <h3>Bootstrap readmore.js Example</h3>
   
   
-  
+                              <p class="prompt">
+                                <a class="button btn btn-primary" href="#">Read More</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
   
   
   
