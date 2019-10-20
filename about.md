@@ -8,7 +8,7 @@ published: true
 </head>
 
 <p class="message">
-  “You've got to be creative to be truly free. That's why being creative is truly freeing.”
+  “You've got to be willing to become truly free to become more creative. That's why being truly creative is truly freeing.”
   <br>
   <center>													- Brontë </center>
  </p>
