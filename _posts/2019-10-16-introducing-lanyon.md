@@ -15,8 +15,7 @@ _**You Matter**_ is a movement started by social media influencer, [Demetrius Ha
  <p class="message">
 	"No matter what people tell you, words and ideas can change the world." 
     <br>
-    -Robin Williams
-  </p>
+_-Robin Williams_  </p>
   
  <br>
 
