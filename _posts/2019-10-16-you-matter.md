@@ -30,7 +30,8 @@ _**You Matter**_ is a movement started by social media influencer, [Demetrius Ha
             <div class="demo-box">
               
               <div class="read-more">
- 
+                            <h3>Bootstrap readmore.js Example</h3>
+  
   
                               <p class="prompt">
                                 <a class="button btn btn-primary" href="#">Read More</a>
