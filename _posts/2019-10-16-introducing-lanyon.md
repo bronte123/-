@@ -27,6 +27,7 @@ No matter who you are, _You Matter_ reminds every student, individual, and perso
 
 Personally, I have always been in support for mental health advocacy, improving social issues, and encouraging inclusion on campus. I believe that when one feels as passionate about a project as this, we all have the ability to create real change, and improve the lives of those around us one step at a time.
     
+**
 
     
     
