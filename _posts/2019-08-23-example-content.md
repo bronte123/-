@@ -20,5 +20,6 @@ Soon enters hard-nosed, sharp-as-a-whip southern investigator, Jayla Tillerman. 
 Originally written by Logan Hall, the story is packed with mystery, action, suspense, and lighthearted humor. The film provides stunning scenery and interesting camera shots, contributing to the unique newness of _The Ballad of Jebediah Jones_. 
 
 **
-
+<br>
+<br>
 <hr>
