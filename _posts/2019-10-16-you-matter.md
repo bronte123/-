@@ -16,14 +16,6 @@ _**You Matter**_ is a movement started by social media influencer, [Demetrius Ha
     -Robin Williams
   </p>
   
-  
-<!-- Include jQuery -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-        
-<!-- Include ReadMore -->
-<script src="https://rawgit.com/reececomo/readmore-js/master/resources/readmore.js?0"></script>
-<link rel="stylesheet" href="https://rawgit.com/reececomo/readmore-js/master/resources/readmore.css?0">
-
         
 
 <div class="read-more">  
