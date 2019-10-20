@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"The Ballad of Jebediah Jones" Film '
+title: '"The Ballad of Jebediah Jones" Film'
 published: true
 ---
 
