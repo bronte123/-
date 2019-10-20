@@ -20,7 +20,7 @@ Soon enters hard-nosed, sharp-as-a-whip southern investigator, Jayla Tillerman. 
   Behind-the-scenes look at Rice's intense portrayal of Jebediah Jones.
 </small>
 
-Originally written by Logan Hall, the story is packed with mystery, action, suspense, and lighthearted humor. Through the progression of the picture, the audience is encouraged to lose themselves within the plot and to begin actually feeling for each character presented. The film provides stunning scenery and interesting camera shots, contributing to the unique newness of _The Ballad of Jebediah Jones_. 
+Originally written by Logan Hall, the story is packed with mystery, action, suspense, and lighthearted humor. Through the progression of the picture, the audience is encouraged to lose themselves within the plot and to begin actually feeling for each character presented. The film provides stunning scenery, interesting dialouge and unforgettable scenes, contributing to the unique newness of _The Ballad of Jebediah Jones_. 
 
 **
 <br>
