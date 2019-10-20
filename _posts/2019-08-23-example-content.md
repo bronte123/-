@@ -17,7 +17,7 @@ Soon enters hard-nosed, sharp-as-a-whip southern investigator, Jayla Tillerman. 
 
 <img src="/JacobStaring.jpg" alt="An behind the scenes look at Jacob or Jeb." height="270" width="500" />
 <small>
-  BTS shot of Jacob Rice's portrayal of Jebediah Jones.
+  BTS shot of Rice's portrayal of Jebediah Jones.
 </small>
 
 Originally written by Logan Hall, the story is packed with mystery, action, suspense, and lighthearted humor. Through the progression of the picture, the audience is encouraged to lose themselves within the plot and to begin actually feeling for each character presented. The film provides stunning scenery and interesting camera shots, contributing to the unique newness of _The Ballad of Jebediah Jones_. 
