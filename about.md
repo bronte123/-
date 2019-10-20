@@ -9,7 +9,6 @@ published: true
 
 <p class="message">
   “You've got to be willing to become truly free to become more creative. That's why being truly creative is truly freeing.” - Brontë
-  <br>
 													- Brontë
  </p>
 
