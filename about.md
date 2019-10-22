@@ -30,6 +30,12 @@ Within the coming years, I aim to create and be apart of projects that bring tog
 <br>
 Voice Over [_Demo Reel_](https://www.dropbox.com/sh/022x2zh876r1k0r/AACEuK-ZNIFR1HkYnNK_b2Gva?dl=0)
 
+
+<center>
+<img src="/JacobStaring.jpg" alt="An behind the scenes look at Jacob or Jeb." height="270" width="500" />
+</center>
+
+
 <br>
 
 **Follow me on social media!**
