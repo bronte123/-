@@ -32,7 +32,7 @@ Voice Over [_Demo Reel_](https://www.dropbox.com/sh/022x2zh876r1k0r/AACEuK-ZNIFR
 
 
 <center>
-<img src="/JacobStaring.jpg" alt="An behind the scenes look at Jacob or Jeb." height="270" width="500" />
+[<img src="/JacobStaring.jpg" alt="An behind the scenes look at Jacob or Jeb." height="270" width="500" />](https://www.dropbox.com/sh/022x2zh876r1k0r/AACEuK-ZNIFR1HkYnNK_b2Gva?dl=0)
 </center>
 
 
