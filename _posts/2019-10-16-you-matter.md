@@ -16,8 +16,18 @@ _**You Matter**_ is a movement started by social media influencer, [Demetrius Ha
     -Robin Williams
   </p>
   
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+#more {display: none;}
+</style>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+#more {display: none;}
+</style>
   
-College is the time for growth, learning, and exploration. College is a time to start building a life of your own and get excited about the future... Yet for some of our nation’s 21 million college students, the transition into adulthood is a time of significant change and intense challenge to their emotional health and well-being.
+  
+  
+College is the time for growth, learning, and exploration. College is a time to start building a life of your own and get excited about the future... Yet for some of our nation’s 21 million college students, the transition into adulthood is a time of significant change and intense challenge to their emotional health and well-being.<span id="dots">...</span><span id="more">
    
 <a href="/writing/The-Shortcomings-of-Computer-Science-Education/" class="read-more">Read More</a>
 
@@ -27,9 +37,29 @@ When it comes to mental and physical health, it is important to remain open and 
 
 No matter who you are, _You Matter_ reminds every student, individual, and person that they truly matter, and that there will always be someone to talk through hard times. 
 
-Personally, I have always been in support for mental health advocacy, improving social issues, and encouraging inclusion on campus. I believe that when one feels as passionate about a project as this, we all have the ability to create real change, and improve the lives of those around us one step at a time.
+Personally, I have always been in support for mental health advocacy, improving social issues, and encouraging inclusion on campus. I believe that when one feels as passionate about a project as this, we all have the ability to create real change, and improve the lives of those around us one step at a time.</span></p><button onclick="myFunction()" id="myBtn">Read more</button>
     
 **
+
+
+
+<script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
 
     
     
