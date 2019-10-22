@@ -83,6 +83,10 @@ The internet is highly influential and has both a national and global reach. Wit
 </table>
 
 
-to fully understand the problem of online bullying with those have experiences dealing with it first hand. discussed digital civility and Internet policy related to social media, privacy, and sexploitation.
+With a diverse and unbias group of members, the Council was able to fully understand and begin to research the problem of online bullying from various points of location.
+
+Topics such as digital civility, online harassment, blackmail, social media, privacy, were heavily discussed at Microsoft's Headquarters in Redmond, WA, where the group had its the very first Council [summit](https://blogs.microsoft.com/on-the-issues/2017/08/08/microsofts-council-for-digital-good-holds-inaugural-summit-on-improving-civility-online/).
+
+
 
 <hr>
