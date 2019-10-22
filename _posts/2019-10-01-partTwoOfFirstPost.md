@@ -11,7 +11,7 @@ published: true
 
 The Council began with the idea of learning from indiviuals from different backgrounds in attempt to develop a deeper understanding of online harassment. The process included searching through a nationwide applicant pool of youth ages 13 - 18 years old. After a long delibration period, fifteen applicants were finally invited to serve on the inaugral _Council for Digital Good_. 
 
-The internet is not a program that is located in one geograhical area... The online world has an global reach. With this in mind, the Council was purposefully structured to have members who resided all over the country. 
+The internet is highly influential and has both a national and global reach. With this in mind, the Council was purposefully structured to have members who resided from all over the country. 
 
 <table>
   <thead>
@@ -30,6 +30,26 @@ The internet is not a program that is located in one geograhical area... The onl
     <tr>
       <td>Champe</td>
       <td>Oregon</td>
+    </tr>
+    <tr>
+      <td>Christina</td>
+      <td>Georgia</td>
+    </tr>
+    <tr>
+      <td>Christina</td>
+      <td>Georgia</td>
+    </tr>
+    <tr>
+      <td>Christina</td>
+      <td>Georgia</td>
+    </tr>
+    <tr>
+      <td>Christina</td>
+      <td>Georgia</td>
+    </tr>
+    <tr>
+      <td>Christina</td>
+      <td>Georgia</td>
     </tr>
     <tr>
       <td>Christina</td>
