@@ -36,28 +36,48 @@ The internet is highly influential and has both a national and global reach. Wit
       <td>Georgia</td>
     </tr>
     <tr>
-      <td>Christina</td>
-      <td>Georgia</td>
+      <td>Indigo</td>
+      <td>California</td>
     </tr>
     <tr>
-      <td>Christina</td>
-      <td>Georgia</td>
+      <td>Katherine</td>
+      <td>California</td>
     </tr>
     <tr>
-      <td>Christina</td>
-      <td>Georgia</td>
+      <td>Isabella</td>
+      <td>Washington</td>
     </tr>
     <tr>
-      <td>Christina</td>
-      <td>Georgia</td>
+      <td>William</td>
+      <td>Washington</td>
     </tr>
     <tr>
-      <td>Christina</td>
-      <td>Georgia</td>
+      <td>Jacob</td>
+      <td>Flordia</td>
     </tr>
     <tr>
-      <td>Erin</td>
-      <td>Michigan</td>
+      <td>Miosotis</td>
+      <td>Flordia</td>
+    </tr>
+        <tr>
+      <td>Jazmine</td>
+      <td>Kentucky</td>
+    </tr>
+        <tr>
+      <td>Judah</td>
+      <td>Tennessee</td>
+    </tr>
+        <tr>
+      <td>Rees</td>
+      <td>Maryland</td>
+    </tr>
+        <tr>
+      <td>Robert</td>
+      <td>Connecticut</td>
+    </tr>
+        <tr>
+      <td>Sierra</td>
+      <td>North Carolina</td>
     </tr>
   </tbody>
 </table>
