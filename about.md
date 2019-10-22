@@ -35,3 +35,6 @@ _nothing is here yet.. in progress_
 * [Twitter](https://twitter.com/brontejohnson1) 
 * [LinkedIn](https://www.linkedin.com/in/brontejohnson)
 * [SoundCloud](https://soundcloud.com/brontej)
+<br>
+<br>
+Check out my resume [here](https://www.dropbox.com/s/45viigm22oix7wg/2020WorkResume.pdf?dl=0).
