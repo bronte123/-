@@ -9,9 +9,9 @@ published: true
 
   > The internet is truly the landmark invention of our lifetime, but it’s not without risk – and those risks seem to be morphing and increasing in line with the rapidly developing pace of technology. 
 
-The Council began with the idea of learning from indiviuals from different backgrounds in attempt to develop a deeper understanding of online harassment. The process included searching through a nationwide applicant pool of people ages 13 - 18 years old. After a long delibration period, fifteen young adults from around the country were choosen to serve on the inaugral Council for Digital Good. 
+The Council began with the idea of learning from indiviuals from different backgrounds in attempt to develop a deeper understanding of online harassment. The process included searching through a nationwide applicant pool of youth ages 13 - 18 years old. After a long delibration period, fifteen applicants were finally invited to serve on the inaugral _Council for Digital Good_. 
 
-To emphasise the 
+The internet is not a program that is located in one geograhical area... The online world has an global reach. With this in mind, the Council was purposefully structured to have members who resided all over the country. 
 
 <table>
   <thead>
