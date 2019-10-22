@@ -36,4 +36,4 @@ _nothing is here yet.. in progress_
 * [LinkedIn](https://www.linkedin.com/in/brontejohnson)
 * [SoundCloud](https://soundcloud.com/brontej)
 <br>
-<br>Check out my resume [here](https://www.dropbox.com/s/xd99onwdnlp2129/2020WorkResume.pdf?dl=0).
+Check out my resume [here](https://www.dropbox.com/s/xd99onwdnlp2129/2020WorkResume.pdf?dl=0).
