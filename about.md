@@ -28,7 +28,7 @@ Within the coming years, I aim to create and be apart of projects that bring tog
 **Interested in some of my work?**
 <br>
 <br>
-Voice Over [_Demo Reel_](https://www.dropbox.com/sh/022x2zh876r1k0r/AACEuK-ZNIFR1HkYnNK_b2Gva?dl=0)
+Voice Over [_Demo Reel_]
 Freelance Photography Shots
 Graphic Design Pieces
 <br>
