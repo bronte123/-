@@ -28,11 +28,13 @@ Within the coming years, I aim to create and be apart of projects that bring tog
 **Interested in some of my work?**
 <br>
 <br>
-Voice Over Work [Demo Reel](https://www.dropbox.com/sh/maqd7btk9lfqwok/AADCiWLxVVFNZkeR3z8yupjLa?dl=0)
+Voice Over Work ➨ [Demo Reel](https://www.dropbox.com/sh/maqd7btk9lfqwok/AADCiWLxVVFNZkeR3z8yupjLa?dl=0)
 <br>
-Freelance Photography [Camera Shots](https://www.dropbox.com/sh/maqd7btk9lfqwok/AADCiWLxVVFNZkeR3z8yupjLa?dl=0)
 <br>
-Graphic Design [Collection of Pieces](https://www.dropbox.com/sh/maqd7btk9lfqwok/AADCiWLxVVFNZkeR3z8yupjLa?dl=0)
+Freelance Photography ➨ [Camera Shots](https://www.dropbox.com/sh/maqd7btk9lfqwok/AADCiWLxVVFNZkeR3z8yupjLa?dl=0)
+<br>
+<br>
+Graphic Design ➨ [Collection of Pieces](https://www.dropbox.com/sh/maqd7btk9lfqwok/AADCiWLxVVFNZkeR3z8yupjLa?dl=0)
 <br>
 
 **Follow me on social media!**
