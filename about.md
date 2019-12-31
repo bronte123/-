@@ -29,6 +29,7 @@ Within the coming years, I aim to create and be apart of projects that bring tog
 <br>
 <br>
 Voice Over [_Demo Reel_]
+<br>
 Freelance Photography Shots
 Graphic Design Pieces
 <br>
