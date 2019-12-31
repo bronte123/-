@@ -34,7 +34,7 @@ _Voice Over_  ➨ [Demo Reel](https://www.dropbox.com/sh/maqd7btk9lfqwok/AADCiWL
 _Freelance Photography_ ➨ [Camera Shots](https://www.dropbox.com/sh/maqd7btk9lfqwok/AADCiWLxVVFNZkeR3z8yupjLa?dl=0)
 <br>
 <br>
-Graphic Design ➨ [Collection of Pieces](https://www.dropbox.com/sh/maqd7btk9lfqwok/AADCiWLxVVFNZkeR3z8yupjLa?dl=0)
+_Graphic Design_ ➨ [Collection of Pieces](https://www.dropbox.com/sh/maqd7btk9lfqwok/AADCiWLxVVFNZkeR3z8yupjLa?dl=0)
 <br>
 
 **Follow me on social media!**
